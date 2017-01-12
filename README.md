@@ -13,3 +13,4 @@ Small Project 1
 * IR - Intermediate Representation code, the heart of LLVM, https://idea.popcount.org/2013-07-24-ir-is-better-than-assembly/
 * SSA -  static single assignment form is a property of an intermediate representation (IR), which requires that each variable is assigned exactly once, and every variable is defined before it is used.
 * LLVM has phi instruction with quite weird explanation: The 'phi' instruction is used to implement the φ node in the SSA graph representing the function. Typically it is used to implement branching.
+* Building LLVM with CMake: http://llvm.org/docs/CMake.html
