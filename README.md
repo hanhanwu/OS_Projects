@@ -15,3 +15,4 @@ Small Project 1
 * LLVM has phi instruction with quite weird explanation: The 'phi' instruction is used to implement the φ node in the SSA graph representing the function. Typically it is used to implement branching.
 * Building LLVM with CMake: http://llvm.org/docs/CMake.html
 * About "Instruction": http://www.cplusplus.com/doc/tutorial/introduction/
+* LLVM Pass: The LLVM Pass Framework is an important part of the LLVM system, because LLVM passes are where most of the interesting parts of the compiler exist. Passes perform the transformations and optimizations that make up the compiler, they build the analysis results that are used by these transformations, and they are, above all, a structuring technique for compiler code. http://llvm.org/docs/WritingAnLLVMPass.html
