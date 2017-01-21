@@ -4,6 +4,9 @@ god bless me, finger cross
 
 Small Project 1
 
+* Demo: https://github.com/nsumner/llvm-demo
+* Assignment: https://github.com/nsumner/callgraph-profiler-template
+
 * CMake: CMake is an extensible, open-source system that manages the build process in an operating system and in a compiler-independent manner. Unlike many cross-platform systems, CMake is designed to be used in conjunction with the native build environment.
 * Install cmake on Mac: http://tudat.tudelft.nl/projects/tudat/wiki/Install_on_Mac_OS_X
 * LLVM: The LLVM compiler infrastructure project (formerly Low Level Virtual Machine) is a "collection of modular and reusable compiler and toolchain technologies" used to develop compiler front ends and back ends.
@@ -22,3 +25,4 @@ Small Project 1
 * BasicBlock(const std::string &Name = "", Function *Parent = 0)
  * The BasicBlock constructor is used to create new basic blocks for insertion into a function. The constructor optionally takes a name for the new block, and a Function to insert it into. If the Parent parameter is specified, the new BasicBlock is automatically inserted at the end of the specified Function, if not specified, the BasicBlock must be manually inserted into the Function.
 * LLVM CallSite functions: http://llvm.org/docs/doxygen/html/CallSite_8h_source.html
+* This project cost me whole week and forced me to work in the lab almost all the time till 11 pm each day.... What the hell, there are 2 more "small projects".... I don't want to touch anything related to OS or C or C++ in the rest of my life (after school graduation) any more!
