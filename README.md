@@ -28,3 +28,7 @@ Small Project 1
 
 * This project cost me whole week and forced me to work in the lab almost all the time till 11 pm each day.... What the hell, there are 2 more "small projects".... I don't want to touch anything related to OS or C or C++ in the rest of my life (after school graduation) any more!
 * But, still have to work very hard, I chose it because I want to learn more about cyber security, all for my career future. At least go though C++ tutorials first: https://www.tutorialspoint.com/cplusplus/
+
+
+Dynamic Analysis
+* Efficient Path profiling (I admit that I am not smart enough to handle OS problems....): https://github.com/hanhanwu/OS_Projects/blob/master/pathprof.pdf.zip
