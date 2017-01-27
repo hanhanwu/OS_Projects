@@ -30,5 +30,31 @@ Small Project 1
 * But, still have to work very hard, I chose it because I want to learn more about cyber security, all for my career future. At least go though C++ tutorials first: https://www.tutorialspoint.com/cplusplus/
 
 
-Dynamic Analysis
-* Efficient Path profiling (I admit that I am not smart enough to handle OS problems....): https://github.com/hanhanwu/OS_Projects/blob/master/pathprof.pdf.zip
+Presentation 1 - Die Harder: Securing The Heap
+
+* According to the authors, Die Harder provides the highest level of security from heap-based memory attacks
+* Memory Allocators (find images/short videos which could describe how do they work quickly)
+ * Freelist-based Allocators
+ * BiBOP-style Allocators
+* Threat Model
+ * Draw an image of the worst case for prime attack targets
+ * Find an easy-to-understand emaple in the real world if there was any
+* Attacks (find image/video/real world examples of the attacks, how do they work)
+ * Heap Overflow Attacks
+ * Heap Spraying Attacks
+ * Dangling Pointer Attacks
+* Countermeasures used to address the volerabilities above (find a real world example)
+* Die Harder Design (find image/video that contains the following components)
+ * Sparse Page Layout
+ * Address Space Sizing
+ * Destroy-on-free
+* Die Harder Analysis (find an easy way to show)
+ * overflows
+ * heap sprays
+* Die Harder Evaluation (maybe draw a table)
+ * If necessary, talk about whether the evaluation is reasonable, after checking enough evidence
+* Summarize Die Harder Strength, Weakness
+ * Strength
+ * Weakness and Related Work
+ 
+
