@@ -30,6 +30,8 @@ Small Project 1
 * But, still have to work very hard, I chose it because I want to learn more about cyber security, all for my career future. At least go though C++ tutorials first: https://www.tutorialspoint.com/cplusplus/
 
 
+******************************************************
+
 Presentation 1 - Die Harder: Securing The Heap
 
 * The paper: https://people.cs.umass.edu/~emery/pubs/ccs03-novark.pdf
@@ -69,6 +71,15 @@ Presentation 1 - Die Harder: Securing The Heap
 * Summarize Die Harder Strength, Weakness
  * Strength
  * Weakness and Related Work
+ 
+ 
+******************************************************
+
+Project 2 - Inter-procedure Dataflow Analysis
+
+Today is Chinese New Year, I am struggling with understanding OS assignment...... (2017/1/27)
+
+* Template: https://github.com/nsumner/llvm-dataflow-analysis
  
 
 [1]:http://stackoverflow.com/questions/667177/heap-overflow-attacks
