@@ -32,6 +32,7 @@ Small Project 1
 
 Presentation 1 - Die Harder: Securing The Heap
 
+* The paper: https://people.cs.umass.edu/~emery/pubs/ccs03-novark.pdf
 * According to the authors, Die Harder provides the highest level of security from heap-based memory attacks
 * Memory Allocators (find images/short videos which could describe how do they work quickly)
  * Freelist-based Allocators
@@ -40,7 +41,19 @@ Presentation 1 - Die Harder: Securing The Heap
  * Draw an image of the worst case for prime attack targets
  * Find an easy-to-understand emaple in the real world if there was any
 * Attacks (find image/video/real world examples of the attacks, how do they work)
+ * Background Knowledge
+   1. Typical modern software systems allocate memory dynamically from structures known as <b>heaps</b>. Calls are made to heap-management routines to allocate and free memory. Heap management involves some computation time and can be a performance issue. <b>Chunking</b> refers to strategies for improving performance by using special knowledge of a situation to aggregate related memory-allocation requests.
  * Heap Overflow Attacks
+   1. A <b>heap overflow</b> is a type of buffer overflow that occurs in the heap data area. <b>Exploitation</b> is performed by corrupting this data in specific ways to cause the application to overwrite internal structures such as linked list pointers. [How does it work when an attacker replaces the function return address with his address][1]. 
+   
+   2. Early Attacks: attack targeted application. The attack forces the allocator to allocate the source chunk and victim chunk contiguously. Then overflows the buffer, overwritting the function pointer with an attacker-controlled address. [Heap Overflow, Stack Overflow and Buffer Overflow][2], [Differences between the 3 attacks][4], [Real life buffer overflow example][3]
+   
+   3. Freelist metadata attacks: The attack applies to any allocation that embeds freelist pointers directly in the freed chunks.Once a free chunk is corrupted, the attacker can simply force allocation until the chunk is reused.
+   
+   4. Other metadata attacks: attack the metadata resides at the beginning of some pages, attackers do not directly control target chunks but the target chunk contains these pages info structure.
+   
+   5. Allocator features that make them vulnerable to the overflow attack: Inline metadata, Page-resident metadata, Guard pages ([underrun and overrun][5]), Canaries ([Canaries wiki defination][6]), Randomized placement ([Randomized placement wiki defination][7])
+   
  * Heap Spraying Attacks
  * Dangling Pointer Attacks
 * Countermeasures used to address the volerabilities above (find a real world example)
@@ -58,3 +71,10 @@ Presentation 1 - Die Harder: Securing The Heap
  * Weakness and Related Work
  
 
+[1]:http://stackoverflow.com/questions/667177/heap-overflow-attacks
+[2]:http://www.cse.scu.edu/~tschwarz/coen152_05/Lectures/BufferOverflow.html
+[3]:http://cis1.towson.edu/~cssecinj/links-resources/real-life-examples/#BO
+[4]:http://stackoverflow.com/questions/1120575/what-is-the-difference-between-a-stack-overflow-and-buffer-overflow
+[5]:http://www.qnx.com/developers/docs/qnxcar2/index.jsp?topic=%2Fcom.qnx.doc.neutrino.prog%2Ftopic%2Fhat_OverrunErrors.html
+[6]:https://en.wikipedia.org/wiki/Buffer_overflow_protection#Canaries
+[7]:https://en.wikipedia.org/wiki/Address_space_layout_randomization#OpenBSD
