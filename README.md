@@ -56,7 +56,18 @@ Presentation 1 - Die Harder: Securing The Heap
    
    5. Allocator features that make them vulnerable to the overflow attack: Inline metadata, Page-resident metadata, Guard pages ([underrun and overrun][5]), Canaries ([Canaries wiki defination][6]), Randomized placement ([Randomized placement wiki defination][7])
    
- * Heap Spraying Attacks
+   
+ * Heap Spraying Attacks - make exploitation of other volunerabilities easier
+   1. <b>ASLR</b> - Address space layout randomization (ASLR) is a memory-protection process for operating systems (OSes) that guards against buffer-overflow attacks by randomizing the location where system executables are loaded into memory. It makes guessing the location of heap-allocated shellcode or the address of a specific function for a return-to-libc attack more difficult.
+   
+   2. A <b>“return-to-libc”</b> attack is a computer security attack usually starting with a buffer overflow in which a subroutine return address on a call stack is replaced by an address of a subroutine that is already present in the process’ executable memory, bypassing the NX bit feature (if present) and ridding the attacker of the need to inject their own code.
+   
+   3. [Heap spraying][10], [Heap Spray in history][13], [Heap Spray details and tutorial...][14], [Arbitary Code Execution][11], [Arbitary code Execution results][12], [Shellcode][9]
+   
+   4. Heap Spraying Attack Model - no knowledge/know valid heap object address. [Archipelago Allocator][15]
+   
+   5. [!!! Heap Spray and Heap Feng Shui PPT][16]
+   
  * Dangling Pointer Attacks
 * Countermeasures used to address the volerabilities above (find a real world example)
 * Die Harder Design (find image/video that contains the following components)
@@ -93,3 +104,11 @@ Today is Chinese New Year, I am struggling with understanding OS assignment.....
 [6]:https://en.wikipedia.org/wiki/Buffer_overflow_protection#Canaries
 [7]:https://en.wikipedia.org/wiki/Address_space_layout_randomization#OpenBSD
 [8]:https://en.wikipedia.org/wiki/Data-flow_analysis
+[9]:https://en.wikipedia.org/wiki/Shellcode
+[10]:https://en.wikipedia.org/wiki/Heap_spraying
+[11]:https://en.wikipedia.org/wiki/Arbitrary_code_execution
+[12]:http://www.pctools.com/security-news/arbitrary-code-execution/
+[13]:http://ecee.colorado.edu/~ekeller/classes/fall2014_advsec/papers/heap-sprays-to-sandbox-escapes_issa0113.pdf
+[14]:https://www.corelan.be/index.php/2011/12/31/exploit-writing-tutorial-part-11-heap-spraying-demystified/
+[15]:https://people.cs.umass.edu/~emery/pubs/archipelago.pdf
+[16]:http://www.blackhat.com/presentations/bh-europe-07/Sotirov/Presentation/bh-eu-07-sotirov-apr19.pdf
