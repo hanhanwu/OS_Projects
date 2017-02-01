@@ -90,7 +90,7 @@ Project 2 - Inter-procedure Dataflow Analysis
 
 Today is Chinese New Year, I am struggling with understanding OS assignment...... (2017/1/27)
 
-* Template: https://github.com/nsumner/llvm-dataflow-analysis
+* Demo for intra-procedural (not branch aware): https://github.com/nsumner/llvm-dataflow-analysis
 * Intraprocedural Analysis - Individual functions are analyzed in isolation
 * Interprocedural Analysis - By considering interactions between calling and called procedures, analyze the whole program
 * Data-flow analysis is a technique for gathering information about the possible set of values calculated at various points in a computer program. A program's control flow graph (CFG) is used to determine those parts of a program to which a particular value assigned to a variable might propagate. The information gathered is often used by compilers when optimizing a program. [Wiki defination][8]
