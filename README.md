@@ -94,7 +94,8 @@ Today is Chinese New Year, I am struggling with understanding OS assignment.....
 * Intraprocedural Analysis - Individual functions are analyzed in isolation
 * Interprocedural Analysis - By considering interactions between calling and called procedures, analyze the whole program
 * Data-flow analysis is a technique for gathering information about the possible set of values calculated at various points in a computer program. A program's control flow graph (CFG) is used to determine those parts of a program to which a particular value assigned to a variable might propagate. The information gathered is often used by compilers when optimizing a program. [Wiki defination][8]
-
+* [Finite State Machine (FSM)][17], [Turing Machine][18], [Turing Complete][19]
+* [Description of ESP][20]
 
 [1]:http://stackoverflow.com/questions/667177/heap-overflow-attacks
 [2]:http://www.cse.scu.edu/~tschwarz/coen152_05/Lectures/BufferOverflow.html
@@ -112,3 +113,7 @@ Today is Chinese New Year, I am struggling with understanding OS assignment.....
 [14]:https://www.corelan.be/index.php/2011/12/31/exploit-writing-tutorial-part-11-heap-spraying-demystified/
 [15]:https://people.cs.umass.edu/~emery/pubs/archipelago.pdf
 [16]:http://www.blackhat.com/presentations/bh-europe-07/Sotirov/Presentation/bh-eu-07-sotirov-apr19.pdf
+[17]:https://en.wikipedia.org/wiki/Finite-state_machine
+[18]:https://en.wikipedia.org/wiki/Turing_machine
+[19]:https://en.wikipedia.org/wiki/Turing_completeness
+[20]:http://www.cs.cornell.edu/courses/cs711/2005fa/slides/sep27.pdf
