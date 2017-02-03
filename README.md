@@ -69,6 +69,10 @@ Presentation 1 - Die Harder: Securing The Heap
    5. [!!! Heap Spray and Heap Feng Shui PPT][16]
    
  * Dangling Pointer Attacks
+   1. [Dangling Pointer and the troubles it can bring][21]
+   
+   2. [Heap Defragmentation Explaination][22], [conservative garbage collection][23]
+ 
 * Countermeasures used to address the volerabilities above (find a real world example)
 * Die Harder Design (find image/video that contains the following components)
  * Sparse Page Layout
@@ -117,3 +121,6 @@ Today is Chinese New Year, I am struggling with understanding OS assignment.....
 [18]:https://en.wikipedia.org/wiki/Turing_machine
 [19]:https://en.wikipedia.org/wiki/Turing_completeness
 [20]:http://www.cs.cornell.edu/courses/cs711/2005fa/slides/sep27.pdf
+[21]:https://en.wikipedia.org/wiki/Dangling_pointer
+[22]:http://openscholarship.wustl.edu/cgi/viewcontent.cgi?article=2031&context=cse_research
+[23]:http://stackoverflow.com/questions/7629446/conservative-garbage-collector
