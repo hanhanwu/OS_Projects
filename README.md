@@ -36,6 +36,7 @@ Presentation 1 - Die Harder: Securing The Heap
 
 * The paper: https://people.cs.umass.edu/~emery/pubs/ccs03-novark.pdf
 * PPT from the paper authors: http://slideplayer.com/slide/8844764/
+* PPT from Archipelago paper: http://slideshowes.com/doc/360854/archipelago--trading-address-space-for-reliability-and
 * According to the authors, Die Harder provides the highest level of security from heap-based memory attacks
 * Memory Allocators (find images/short videos which could describe how do they work quickly)
  * Freelist-based Allocators
