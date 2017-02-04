@@ -71,7 +71,13 @@ Presentation 1 - Die Harder: Securing The Heap
  * Dangling Pointer Attacks
    1. [Dangling Pointer and the troubles it can bring][21]
    
-   2. [Heap Defragmentation Explaination][22], [conservative garbage collection][23]
+   2. [Heap Defragmentation Explaination][22], [conservative garbage collection][23], [GUN][24], [Pine Mail Reader][25], [squid web proxy][26]
+   
+   3. bftpd: The Bftpd program is a small, flexible FTP server which is designed to work out of the box with little or no configuration required. Most users in home and small office environments can simply install Bftpd without any manual configuration, Bftpd will automatically attempt to work as smoothly and securely as possible.
+   
+   4. thttpd: (tiny/turbo/throttling HTTP server) is an open source software web server from ACME Laboratories, designed for simplicity, a small execution footprint and speed.
+   
+   5. OpenSSH: (also known as OpenBSD Secure Shell [a]) is a suite of security-related network-level utilities based on the Secure Shell (SSH) protocol, which help to secure network communications via the encryption of network traffic over multiple authentication methods and by providing secure tunneling capabilities.
  
 * Countermeasures used to address the volerabilities above (find a real world example)
 * Die Harder Design (find image/video that contains the following components)
@@ -124,3 +130,6 @@ Today is Chinese New Year, I am struggling with understanding OS assignment.....
 [21]:https://en.wikipedia.org/wiki/Dangling_pointer
 [22]:http://openscholarship.wustl.edu/cgi/viewcontent.cgi?article=2031&context=cse_research
 [23]:http://stackoverflow.com/questions/7629446/conservative-garbage-collector
+[24]:https://en.wikipedia.org/wiki/GNU
+[25]:https://en.wikipedia.org/wiki/Pine_(email_client)
+[26]:https://en.wikipedia.org/wiki/Squid_(software)
