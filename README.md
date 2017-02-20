@@ -138,3 +138,11 @@ Today is Chinese New Year, I am struggling with understanding OS assignment.....
 [24]:https://en.wikipedia.org/wiki/GNU
 [25]:https://en.wikipedia.org/wiki/Pine_(email_client)
 [26]:https://en.wikipedia.org/wiki/Squid_(software)
+
+
+******************************************************
+
+Critique 2
+
+* https://github.com/hanhanwu/OS_Projects/blob/master/etst_case_for_specific_mining.pdf
+* https://github.com/hanhanwu/OS_Projects/blob/master/invariants-tse2001.pdf
