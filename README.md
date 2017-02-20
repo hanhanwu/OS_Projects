@@ -146,3 +146,20 @@ Critique 2
 
 * https://github.com/hanhanwu/OS_Projects/blob/master/etst_case_for_specific_mining.pdf
 * https://github.com/hanhanwu/OS_Projects/blob/master/invariants-tse2001.pdf
+
+
+******************************************************
+
+Final Project
+
+Machine Learning Applications
+* Machine Learning Applications: https://www.swe.informatik.uni-goettingen.de/research/machine-learning-applications-software-engineering
+* Detection of feature freezes using clustering algorithms: https://pdfs.semanticscholar.org/a128/5d1471d58f61c156f09fc8596e36cd5c4802.pdf
+
+Machine Learning & Cyber Security 
+* Good papers: http://www.kdnuggets.com/2017/01/machine-learning-cyber-security.html
+* NN crack: https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_melicher.pdf
+* Anomalous Payload-based Network Intrusion Detection: http://www.covert.io/research-papers/security/PAYL%20-%20Anomalous%20Payload-based%20Network%20Intrusion%20Detection.pdf
+* Exploiting machine learning to subvert your spam filter: https://people.eecs.berkeley.edu/~tygar/papers/SML/Spam_filter.pdf
+* SpamBayes: http://spambayes.sourceforge.net/
+* Network intrusion detection guidelines, challenges of machine learning in this area: https://www.utdallas.edu/~muratk/courses/dmsec_files/oakland10-ml.pdf
