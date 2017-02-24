@@ -160,6 +160,9 @@ Data Science Methods
  * All papers/talks: http://www.srl.inf.ethz.ch/spas
  * dataset: http://www.srl.inf.ethz.ch/py150
  * Probabilistic Model for Code with Decision Trees: http://www.srl.inf.ethz.ch/papers/oopsla16-dt.pdf
+* BigDubug
+ * Debug Spark paper: http://web.cs.ucla.edu/~miryung/Publications/icse2016-gulzar-bigdebug.pdf
+ * Their API (currently only support RDD, and looks like scala only): https://sites.google.com/site/sparkbigdebug/api
 
 Machine Learning & Cyber Security 
 * Good papers: http://www.kdnuggets.com/2017/01/machine-learning-cyber-security.html
@@ -170,5 +173,9 @@ Machine Learning & Cyber Security
 * Network intrusion detection guidelines, challenges of machine learning in this area: https://www.utdallas.edu/~muratk/courses/dmsec_files/oakland10-ml.pdf
 
 
-Auto Bug Detection Tools:
-* PyChecker: http://legacy.python.org/workshops/2002-02/papers/02/
+Auto Source Code Analysis Tools:
+* PyChecker (debug): http://legacy.python.org/workshops/2002-02/papers/02/
+* List of python code metrics tools (code metrics, bug report): https://www.fullstackpython.com/code-metrics.html
+* PyMetrics (code metrics): https://sourceforge.net/projects/pymetrics/
+* Python randon (code metrics): https://pypi.python.org/pypi/radon
+* code Climate Engine (code metrics for python, JavaScript, ruby and php): https://docs.codeclimate.com/docs/switching-to-code-climate-platform#python-analysis
