@@ -152,9 +152,14 @@ Critique 2
 
 Final Project
 
-Machine Learning Applications
+Data Science Methods
 * Machine Learning Applications: https://www.swe.informatik.uni-goettingen.de/research/machine-learning-applications-software-engineering
 * Detection of feature freezes using clustering algorithms: https://pdfs.semanticscholar.org/a128/5d1471d58f61c156f09fc8596e36cd5c4802.pdf
+* Python Predictive Analysis for bug detection: http://researcher.watson.ibm.com/researcher/files/us-liup/Python%20Predictive%20Analysis%20for%20Bug%20Detection.pdf
+* Machine Learning for Programming
+ * All papers/talks: http://www.srl.inf.ethz.ch/spas
+ * dataset: http://www.srl.inf.ethz.ch/py150
+ * Probabilistic Model for Code with Decision Trees: http://www.srl.inf.ethz.ch/papers/oopsla16-dt.pdf
 
 Machine Learning & Cyber Security 
 * Good papers: http://www.kdnuggets.com/2017/01/machine-learning-cyber-security.html
@@ -163,3 +168,7 @@ Machine Learning & Cyber Security
 * Exploiting machine learning to subvert your spam filter: https://people.eecs.berkeley.edu/~tygar/papers/SML/Spam_filter.pdf
 * SpamBayes: http://spambayes.sourceforge.net/
 * Network intrusion detection guidelines, challenges of machine learning in this area: https://www.utdallas.edu/~muratk/courses/dmsec_files/oakland10-ml.pdf
+
+
+Auto Bug Detection Tools:
+* PyChecker: http://legacy.python.org/workshops/2002-02/papers/02/
