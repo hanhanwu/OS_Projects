@@ -179,3 +179,15 @@ Auto Source Code Analysis Tools:
 * PyMetrics (code metrics): https://sourceforge.net/projects/pymetrics/
 * Python randon (code metrics): https://pypi.python.org/pypi/radon
 * code Climate Engine (code metrics for python, JavaScript, ruby and php): https://docs.codeclimate.com/docs/switching-to-code-climate-platform#python-analysis
+
+
+StackOverflow Related Program Analysis
+* Make a good code example: https://www.semanticscholar.org/paper/What-makes-a-good-code-example-A-study-of-Nasehi-Sillito/b8f9539d145638ac93957da4f653e238a4e9d413
+* Building reputation in StackOverflow: an empirical investigation: https://www.semanticscholar.org/paper/Building-reputation-in-StackOverflow-an-empirical-Bosu-Corley/343edae0cab9a649ad61d1c5ce36b20b52ae66df
+* Tag Recommendations in StackOverflow: https://www.semanticscholar.org/paper/Tag-Recommendations-in-StackOverflow-Short-Wong/025734094e6f1a166ba29c0b50f06d0e50fe116b
+* Selection and presentation practices for code example summarization: https://www.semanticscholar.org/paper/Selection-and-presentation-practices-for-code-Ying-Robillard/84083ccc9e2a8f6f7341c9166f80c8e1b3e25c74
+* Subjective Evaluation of Software Quality Using Crowdsource Knowledge: An Exploratory Study: https://www.semanticscholar.org/paper/Subjective-Evaluation-of-Software-Quality-Using-Rahman-Roy/d21302a9e6e85409d490781f8e378ecb390b0170
+
+
+Stackoverflow API
+* https://api.stackexchange.com/docs
