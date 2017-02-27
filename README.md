@@ -150,6 +150,12 @@ Critique 2
 
 ******************************************************
 
+Critique 3
+* http://web.engr.oregonstate.edu/~ahmedi/paper10.pdf
+
+
+******************************************************
+
 Final Project
 
 Data Science Methods
