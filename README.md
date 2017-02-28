@@ -152,6 +152,7 @@ Critique 2
 
 Critique 3
 * http://web.engr.oregonstate.edu/~ahmedi/paper10.pdf
+* The paper really used many "however": https://github.com/hanhanwu/OS_Projects/blob/master/paper10.pdf
 
 
 ******************************************************
