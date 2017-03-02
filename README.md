@@ -157,6 +157,12 @@ Critique 3
 
 ******************************************************
 
+Project 3 (I'm really tired....)
+* Efficient Path Profiling alg: http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=566449
+
+
+******************************************************
+
 Final Project
 
 Data Science Methods
