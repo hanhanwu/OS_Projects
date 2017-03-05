@@ -159,6 +159,7 @@ Critique 3
 
 Project 3 (I'm really tired....)
 * Efficient Path Profiling alg: http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=566449
+* Control Flow Graph: https://en.wikipedia.org/wiki/Control_flow_graph
 
 
 ******************************************************
