@@ -157,6 +157,16 @@ Critique 3
 
 ******************************************************
 
+Critique 4
+* https://github.com/hanhanwu/OS_Projects/blob/master/vuzzer-ndss-2017.pdf
+* I think this is the most logical and well structured paper I have read in this class so far
+* AFLFast GitHub: https://github.com/mboehme/aflfast
+* Vuzzer GitHub: https://github.com/vusec/vuzzer
+* AFL: http://lcamtuf.coredump.cx/afl/
+
+
+******************************************************
+
 Project 3 (I'm really tired....)
 * Efficient Path Profiling alg: http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=566449
 * Control Flow Graph: https://en.wikipedia.org/wiki/Control_flow_graph
