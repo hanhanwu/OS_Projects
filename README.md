@@ -170,6 +170,9 @@ Critique 4
 Project 3 (I'm really tired....)
 * Efficient Path Profiling alg: http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=566449
 * Control Flow Graph: https://en.wikipedia.org/wiki/Control_flow_graph
+* LLVM BasicBlock, get list of successors: http://stackoverflow.com/questions/34773528/finding-the-list-of-successors-of-a-basic-block-in-llvm
+* LLVM BasicBlock, Terminator Instruction: http://www.llvm.org/docs/doxygen/html/classllvm_1_1BasicBlock.html#a5cb76a65b6524dba1493dd2b9dc3abbe
+* LLVM BasicBlock, Terminator, successors: http://www.llvm.org/docs/doxygen/html/classllvm_1_1TerminatorInst.html#a3aac3b6c36415a2b08f65ead9e3e51e7
 
 
 ******************************************************
