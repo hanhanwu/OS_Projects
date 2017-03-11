@@ -164,6 +164,19 @@ Critique 4
 * Vuzzer GitHub: https://github.com/vusec/vuzzer
 * AFL: http://lcamtuf.coredump.cx/afl/
 
+******************************************************
+
+Presentation 2
+
+* SourcererCC: Scaling Code Clone Detection to Big Code: https://arxiv.org/pdf/1512.06448.pdf
+* SourcererCC: https://github.com/Mondego/SourcererCC
+* A paper about why developers need to detect and manage code clones: http://cs.queensu.ca/~cordy/Papers/RC_Framework_CSER08.pdf
+* In IR, recall = number of items detected divided by the total number of detectable items.
+* precision = v/k, k means clone pairs, v mmeans automatic validation reports that v of these k pairs are valid
+* [2014] Vision of Software Clone Management (strength & weakness, root causes of code clones): https://www.cs.usask.ca/~croy/papers/2014/RoyetalCSMR-WCRE2014Keynote.pdf
+* [2007] A Survey on Software Clone Detection Research (mode details about code clones, and relative definition): http://research.cs.queensu.ca/TechReports/Reports/2007-541.pdf
+* How they detect plagiarism: http://theory.stanford.edu/~aiken/publications/papers/sigmod03.pdf
+
 
 ******************************************************
 
