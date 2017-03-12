@@ -175,7 +175,8 @@ Presentation 2
 * precision = v/k, k means clone pairs, v mmeans automatic validation reports that v of these k pairs are valid
 * [2014] Vision of Software Clone Management (strength & weakness, root causes of code clones): https://www.cs.usask.ca/~croy/papers/2014/RoyetalCSMR-WCRE2014Keynote.pdf
 * [2007] A Survey on Software Clone Detection Research (mode details about code clones, and relative definition): http://research.cs.queensu.ca/TechReports/Reports/2007-541.pdf
-* How they detect plagiarism: http://theory.stanford.edu/~aiken/publications/papers/sigmod03.pdf
+* Marked Software Clone Detection Research: https://github.com/hanhanwu/OS_Projects/blob/master/%20Software%20Clone%20Detection%20Research.pdf
+* MOSS - How do they detect plagiarism: http://theory.stanford.edu/~aiken/publications/papers/sigmod03.pdf
 
 
 ******************************************************
