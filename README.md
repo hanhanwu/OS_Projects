@@ -192,6 +192,13 @@ Project 3 (I'm really tired....)
 
 ******************************************************
 
+Critique 5
+* This paper is trying to predict software defection with semantic features and deep learning, Deep Belief Network (DBN): https://github.com/hanhanwu/OS_Projects/blob/master/deeplearn-icse16.pdf
+* It really has the largest amount of problems I have ever read this semester...
+
+
+******************************************************
+
 Final Project
 
 Data Science Methods
