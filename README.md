@@ -202,6 +202,8 @@ Critique 6
 Critique 7
 * https://github.com/hanhanwu/OS_Projects/blob/master/CCS08GoodInstructions.pdf
 * I hate reading this type of paper
+* https://github.com/hanhanwu/OS_Projects/blob/master/removing%20ROP.pdf
+* https://link.springer.com/chapter/10.1007/978-3-642-10772-6_13
 
 
 ******************************************************
