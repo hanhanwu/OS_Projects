@@ -257,3 +257,7 @@ Code/Bug Metris Open Source
   * Homepage: https://www.pylint.org/
   * Github: https://github.com/PyCQA/pylint
   * User Manual: https://pylint.readthedocs.io/en/latest/
+* Randon
+ * Code Metrics Detailed Explain: http://radon.readthedocs.io/en/latest/intro.html
+ * All the Documentation: http://radon.readthedocs.io/en/latest/index.html
+ * Programming Guide with different metrics: http://radon.readthedocs.io/en/latest/api.html 
