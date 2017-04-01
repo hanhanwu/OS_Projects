@@ -250,3 +250,10 @@ StackOverflow Related Program Analysis
 Stackoverflow API
 * https://api.stackexchange.com/docs
 * My code for data extraction: https://github.com/hanhanwu/Hanhan_Play_With_Social_Media/blob/master/Stackoverflow_data_extraction.py
+
+
+Code/Bug Metris Open Source
+* Pylint
+  * Homepage: https://www.pylint.org/
+  * Github: https://github.com/PyCQA/pylint
+  * User Manual: https://pylint.readthedocs.io/en/latest/
