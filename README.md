@@ -253,11 +253,16 @@ Stackoverflow API
 
 
 Code/Bug Metris Open Source
+* A summary of python code metrics resources: https://www.fullstackpython.com/code-metrics.html
 * Pylint
   * Homepage: https://www.pylint.org/
   * Github: https://github.com/PyCQA/pylint
   * User Manual: https://pylint.readthedocs.io/en/latest/
 * Randon
- * Code Metrics Detailed Explain: http://radon.readthedocs.io/en/latest/intro.html
- * All the Documentation: http://radon.readthedocs.io/en/latest/index.html
- * Programming Guide with different metrics: http://radon.readthedocs.io/en/latest/api.html 
+  * Code Metrics Detailed Explain: http://radon.readthedocs.io/en/latest/intro.html
+  * All the Documentation: http://radon.readthedocs.io/en/latest/index.html
+  * Programming Guide with different metrics: http://radon.readthedocs.io/en/latest/api.html 
+* Pyntch
+  * Descriptions and user guide: http://www.unixuser.org/~euske/python/pyntch/index.html
+  * I think it works better if the code input is C/C++, Java, etc., rather than python
+
