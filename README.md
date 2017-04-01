@@ -267,3 +267,6 @@ Code/Bug Metris Open Source
   * Descriptions and user guide: http://www.unixuser.org/~euske/python/pyntch/index.html
   * I think it works better if the code input is C/C++, Java, etc., rather than python
 
+Sequence Match
+* Python difflib.SequenceMatcher
+  * A little about the algorithm: https://docs.python.org/2/library/difflib.html#difflib.SequenceMatcher
